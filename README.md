@@ -1,9 +1,9 @@
 
-<div style="display: flex; align-items: center;">
-  <img src="./Hand_Wave.gif" alt="hand wage" width="40"/>
-  <h2 style="margin: 0;">Hi, my Name is Mario Tavarez</h2>
-</div>
 
+<p align="center">
+  <img src="./Hand_Wave.gif" alt="hand wage" width="55" align="left"/>
+  <h2 align="left">Hi, my Name is Mario Tavarez</h2>
+</p>
 
 ### Senior Front End Developer
 
@@ -17,66 +17,39 @@ My focus is on leading front-end development, making a significant impact on eve
 
 I believe in the power of innovation and the constant pursuit of learning. My commitment extends not only to technical excellence but also to driving the growth of my team.
 
-<details>
-  <summary>What Defines Me <img src="./Subject_2.png" alt="houston cli" style="vertical-align: middle;" width="30"/> </summary>
+<details open>
+  <summary>What Defines Me</summary>
   <br>
   🔭 I’m currently dedicated to crafting exceptional solutions
-
   <br>
-
   🌱 I’m in a perpetual state of learning 🤓
   <br>
-
   🤝 I’m seeking opportunities to contribute to impactful projects!
   <br>
-
-  👨‍💻 Check out my projects at mariotavarez.dev
+  👨‍💻 Check out my projects at [mariotavarez.dev](https://mariotavarez.dev)
   <br>
-
   💬 Let's discuss open source, web development, and community management
   <br>
-
   📫 Reach me at mariojosueitq@gmail.com
 </details>
 
-
-<center>
+<p align="center">
   <img src="./Subject_3.png" alt="https://mariotavarez.dev" width="300"/>
+</p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotavarez&title_color=DCF2F1&bg_color=10,232526,414345&border_radius=10&show_icons=true&layout=compact&text_color=ffffff)](https://github.com/mariotavarez/github-readme-stats)
-
-</center>
+<p align="center">
+  <a href="https://github.com/mariotavarez/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotavarez&title_color=DCF2F1&bg_color=10,232526,414345&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" alt="Top Langs"/>
+  </a>
+</p>
 
 <br>
+<br>
 
-<div style="display: flex; gap:.5rem; align-items: center;">
-  <h3>Pinned</h3>
-  <img src="./Subject_6.png" alt="Pinned" width="30"/>
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem;">
-  <a href="https://github.com/mariotavarez/tesla-landing-page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=tesla-landing-page&title_color=DCF2F1&bg_color=10,000000,434343&border_color=e4e2e2&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/mariotavarez/warp-configurations">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=warp-configurations&title_color=DCF2F1&bg_color=10,000000,434343&border_color=e4e2e2&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/mariotavarez/astro-tips">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=astro-tips&title_color=DCF2F1&bg_color=10,000000,434343&border_color=e4e2e2&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/mariotavarez/mi-aerolinea">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=mi-aerolinea&title_color=DCF2F1&bg_color=10,000000,434343&border_color=e4e2e2&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/mariotavarez/mi-aerolinea">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=mi-aerolinea&title_color=DCF2F1&bg_color=10,000000,434343&border_color=e4e2e2&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" />
-  </a>
-</div>
-
-
-<div style="display: flex; gap:.5rem; align-items: center;">
-  <h3>Technologies</h3>
-  <img src="./Subject_8.png" alt="Technologies" width="30"/>
-</div>
+<p align="center">
+  <img src="./Subject_8.png" alt="Pinned" width="40" align="left"/>
+  <h3 align="left">Technologies</h3>
+</p>
 
 ### Frontend
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -93,7 +66,6 @@ I believe in the power of innovation and the constant pursuit of learning. My co
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -108,17 +80,20 @@ I believe in the power of innovation and the constant pursuit of learning. My co
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Other
-
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
+<br>
 
-</br>
 And some more...
 
-<div style="display: flex; gap:.5rem; align-items: center;">
-  <h3>Find me at</h3>
-  <img src="./Subject_10.png" alt="Technologies" width="30"/>
-</div>
+<br>
+<br>
+
+<p align="center">
+  <img src="./Subject_10.png" alt="Find me at" width="40" align="left"/>
+    <h3 align="left">Find me at</h3>
+  
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariotavarez/)
 
