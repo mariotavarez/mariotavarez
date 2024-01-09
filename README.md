@@ -8,7 +8,7 @@
 ### Senior Front End Developer
 
 <p align="center">
-  <img src="./Subject.png" alt="https://mariotavarez.dev" width="200"/>
+  <img src="./Subject.png" alt="Senior Front End" width="200"/>
 </p>
 
 I am a systems engineer with over 7 years of experience, passionate about technology and programming.
@@ -26,7 +26,7 @@ I believe in the power of innovation and the constant pursuit of learning. My co
   <br>
   🤝 I’m seeking opportunities to contribute to impactful projects!
   <br>
-  👨‍💻 Check out my projects at [mariotavarez.dev](https://mariotavarez.dev)
+  👨‍💻 Check out my projects at my <a href="https://www.macoder.dev" target="_blank">Website</a>
   <br>
   💬 Let's discuss open source, web development, and community management
   <br>
@@ -34,7 +34,7 @@ I believe in the power of innovation and the constant pursuit of learning. My co
 </details>
 
 <p align="center">
-  <img src="./Subject_3.png" alt="https://mariotavarez.dev" width="300"/>
+  <img src="./Subject_3.png" alt="focus me" width="300"/>
 </p>
 
 <p align="center">
@@ -97,4 +97,4 @@ And some more...
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariotavarez/)
 
-[![Website](https://img.shields.io/badge/Website_Mario_Tavarez-gray?style=for-the-badge)](https://mariotavarez.dev)
+[![Website](https://img.shields.io/badge/Website_Mario_Tavarez-gray?style=for-the-badge)](https://macoder.dev)
