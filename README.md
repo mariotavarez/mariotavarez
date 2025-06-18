@@ -13,7 +13,7 @@
 
 I am a systems engineer with over 8 years of experience, passionate about technology and programming.
 
-My focus is on leading front-end development, making a significant impact on every project I participate in.
+My focus is on leading front-end and back-end development, making a significant impact on every project I participate in.
 
 I believe in the power of innovation and the constant pursuit of learning. My commitment extends not only to technical excellence but also to driving the growth of my team.
 
