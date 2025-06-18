@@ -5,13 +5,13 @@
   <h2 align="left">Hi, my Name is Mario Tavarez</h2>
 </p>
 
-### Senior Front End Developer
+### Senior Full Stack
 
 <p align="center">
-  <img src="./Subject.png" alt="Senior Front End" width="200"/>
+  <img src="./Subject.png" alt="Senior Full Stack" width="200"/>
 </p>
 
-I am a systems engineer with over 7 years of experience, passionate about technology and programming.
+I am a systems engineer with over 8 years of experience, passionate about technology and programming.
 
 My focus is on leading front-end development, making a significant impact on every project I participate in.
 
