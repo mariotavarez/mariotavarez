@@ -1,36 +1,38 @@
 
 
 <p align="center">
-  <img src="./Hand_Wave.gif" alt="hand wage" width="55" align="left"/>
-  <h2 align="left">Hi, my Name is Mario Tavarez</h2>
+  <img src="./Hand_Wave.gif" alt="hand wave" width="55" align="left"/>
+  <h2 align="left">Hi, I'm Mario Tavarez | Senior Full Stack Engineer</h2>
 </p>
 
-### Senior Full Stack
+### 8+ Years Building Enterprise Solutions
 
 <p align="center">
   <img src="./Subject.png" alt="Senior Full Stack" width="200"/>
 </p>
 
-I am a systems engineer with over 8 years of experience, passionate about technology and programming.
+I am a results-driven Systems Engineer with over 8 years of experience delivering high-impact solutions across the full development stack. I specialize in architecting scalable applications that solve complex business challenges.
 
-My focus is on leading front-end and back-end development, making a significant impact on every project I participate in.
+My expertise lies in leading both front-end and back-end development initiatives, consistently delivering projects that exceed client expectations and drive business growth.
 
-I believe in the power of innovation and the constant pursuit of learning. My commitment extends not only to technical excellence but also to driving the growth of my team.
+I thrive in collaborative environments where innovation is valued, and I'm passionate about mentoring junior developers to elevate team performance and code quality.
 
 <details open>
-  <summary>What Defines Me</summary>
+  <summary><b>What I Bring to Your Team</b></summary>
   <br>
-  🔭 I’m currently dedicated to crafting exceptional solutions
+  🔭 Currently architecting enterprise-grade solutions with modern tech stacks
   <br>
-  🌱 I’m in a perpetual state of learning 🤓
+  🌱 Continuously expanding my expertise in cloud architecture and performance optimization
   <br>
-  🤝 I’m seeking opportunities to contribute to impactful projects!
+  🚀 Proven track record of reducing development time by 30% through efficient workflows
   <br>
-  👨‍💻 Check out my projects at my <a href="https://www.macoder.dev" target="_blank">Website</a>
+  🤝 Seeking opportunities to lead impactful projects in innovative companies
   <br>
-  💬 Let's discuss open source, web development, and community management
+  👨‍💻 Portfolio of successful projects available at <a href="https://www.macoder.dev" target="_blank">www.macoder.dev</a>
   <br>
-  📫 Reach me at mariojosueitq@gmail.com
+  💬 Expert in React/Angular ecosystems, Node.js backends, and scalable architecture
+  <br>
+  📫 Available for interviews: mariojosueitq@gmail.com | Open to relocation
 </details>
 
 <p align="center">
@@ -48,10 +50,10 @@ I believe in the power of innovation and the constant pursuit of learning. My co
 
 <p align="center">
   <img src="./Subject_8.png" alt="Pinned" width="40" align="left"/>
-  <h3 align="left">Technologies</h3>
+  <h3 align="left">Technical Expertise</h3>
 </p>
 
-### Frontend
+### Frontend Development
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -66,35 +68,34 @@ I believe in the power of innovation and the constant pursuit of learning. My co
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### Backend & Database Engineering
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Testing
+### Quality Assurance & Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-### Package Managers
+### DevOps & Build Tools
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-### Other
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br>
 
-And some more...
+And expertise in CI/CD, microservices architecture, and performance optimization.
 
 <br>
 <br>
 
 <p align="center">
   <img src="./Subject_10.png" alt="Find me at" width="40" align="left"/>
-    <h3 align="left">Find me at</h3>
-  
+  <h3 align="left">Let's Connect</h3>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariotavarez/)
-
-[![Website](https://img.shields.io/badge/Website_Mario_Tavarez-gray?style=for-the-badge)](https://macoder.dev)
+[![Website](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge)](https://macoder.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariojosueitq@gmail.com)
