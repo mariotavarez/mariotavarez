@@ -249,6 +249,87 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/next-dashboard-starter">
+        <img src="https://raw.githubusercontent.com/mariotavarez/next-dashboard-starter/main/.github/demo.gif" width="100%" alt="next-dashboard-starter"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/next-dashboard-starter"><b>next-dashboard-starter</b></a>
+      <br/>
+      <sub>Production-ready Next.js 15 admin dashboard with App Router, TypeScript, dark mode, and full CRUD UI.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/App_Router-✓-000000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/astro-portfolio-template">
+        <img src="https://raw.githubusercontent.com/mariotavarez/astro-portfolio-template/main/.github/demo.gif" width="100%" alt="astro-portfolio-template"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/astro-portfolio-template"><b>astro-portfolio-template</b></a>
+      <br/>
+      <sub>Blazing-fast developer portfolio with Astro 5, MDX blog, dark mode, and zero JS by default.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Astro-5-FF5D01?logo=astro&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/MDX-blog-yellow?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/react-data-table">
+        <img src="https://raw.githubusercontent.com/mariotavarez/react-data-table/main/.github/demo.gif" width="100%" alt="react-data-table"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/react-data-table"><b>react-data-table</b></a>
+      <br/>
+      <sub>Headless data table for React 19 — sort, filter, pagination, row selection, column visibility. Zero extra deps.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/env-doctor">
+        <img src="https://raw.githubusercontent.com/mariotavarez/env-doctor/main/.github/demo.svg" width="100%" alt="env-doctor"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/env-doctor"><b>env-doctor</b></a>
+      <br/>
+      <sub>Validate your .env against .env.example — catch missing vars, weak secrets, and placeholders before deploy.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-env--doctor-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/changelog-gen">
+        <img src="https://raw.githubusercontent.com/mariotavarez/changelog-gen/main/.github/demo.svg" width="100%" alt="changelog-gen"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/changelog-gen"><b>changelog-gen</b></a>
+      <br/>
+      <sub>Stop writing changelogs by hand. Auto-generate CHANGELOG.md from conventional commits.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/conventional_commits-✓-f05032?logo=git&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <br/><br/><br/><br/>
+      <b>More coming soon...</b>
+      <br/><br/>
+      <sub>Follow to stay updated on new open source tools and templates.</sub>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez?tab=repositories">
+        <img src="https://img.shields.io/badge/View_all_repos-→-6366f1?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br>
