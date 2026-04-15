@@ -136,41 +136,120 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
 
 ### 🚀 Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/mariotavarez/react-ai-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-ai-dashboard&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/mariotavarez/react-crypto-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-crypto-tracker&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mariotavarez/react-taskflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-taskflow&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/mariotavarez/react-node-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-node-editor&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mariotavarez/ai-review-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=ai-review-cli&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/mariotavarez/claude-usage-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=claude-usage-cli&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mariotavarez/git-standup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=git-standup&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/mariotavarez/devpulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=devpulse&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/react-ai-dashboard">
+        <img src="https://raw.githubusercontent.com/mariotavarez/react-ai-dashboard/main/.github/demo.gif" width="100%" alt="NeuralMetrics — AI Dashboard"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/react-ai-dashboard"><b>NeuralMetrics — AI Dashboard</b></a>
+      <br/>
+      <sub>Production-grade AI analytics dashboard with KPI metrics, revenue charts, ML insights panel, and activity feed.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Recharts-2.10-8884d8?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/react-crypto-tracker">
+        <img src="https://raw.githubusercontent.com/mariotavarez/react-crypto-tracker/main/.github/demo.gif" width="100%" alt="CryptoTracker — Live Portfolio"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/react-crypto-tracker"><b>CryptoTracker — Live Portfolio</b></a>
+      <br/>
+      <sub>Real-time crypto portfolio tracker with live price simulation, P&L tracking, price charts, and watchlist.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Recharts-2.10-8884d8?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/react-taskflow">
+        <img src="https://raw.githubusercontent.com/mariotavarez/react-taskflow/main/.github/demo.gif" width="100%" alt="TaskFlow — Kanban Board"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/react-taskflow"><b>TaskFlow — Kanban Board</b></a>
+      <br/>
+      <sub>Kanban task manager with priority system, full-text search, tag autocomplete, and task modal.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/react-node-editor">
+        <img src="https://raw.githubusercontent.com/mariotavarez/react-node-editor/master/.github/preview.svg" width="100%" alt="NodeFlow — Workflow Editor"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/react-node-editor"><b>NodeFlow — Workflow Editor</b></a>
+      <br/>
+      <sub>Visual drag-and-drop workflow builder with 4 node types, properties panel, and JSON export.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/@xyflow/react-12-6366f1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/ai-review-cli">
+        <img src="https://raw.githubusercontent.com/mariotavarez/ai-review-cli/main/.github/demo.svg" width="100%" alt="ai-review-cli"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/ai-review-cli"><b>ai-review-cli</b></a>
+      <br/>
+      <sub>AI-powered code review in your terminal. Reviews staged diffs, generates commit messages, explains code — powered by Claude.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Claude-API-D97757?logo=anthropic&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/claude-usage-cli">
+        <img src="https://raw.githubusercontent.com/mariotavarez/claude-usage-cli/main/.github/demo.svg" width="100%" alt="claude-usage-cli"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/claude-usage-cli"><b>claude-usage-cli</b></a>
+      <br/>
+      <sub>Beautiful terminal dashboard for tracking Claude API token usage and costs across models.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Ink-5-bc8cff?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/git-standup">
+        <img src="https://raw.githubusercontent.com/mariotavarez/git-standup/main/.github/demo.svg" width="100%" alt="git-standup"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/git-standup"><b>git-standup</b></a>
+      <br/>
+      <sub>Generate beautiful daily standup reports from your git history across multiple repos.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/simple--git-3-f05032?logo=git&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/devpulse">
+        <img src="https://raw.githubusercontent.com/mariotavarez/devpulse/main/.github/demo.svg" width="100%" alt="devpulse"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/devpulse"><b>devpulse</b></a>
+      <br/>
+      <sub>Project health monitor — scores your codebase across dependencies, TypeScript, security, and structure.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-devpulse-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
