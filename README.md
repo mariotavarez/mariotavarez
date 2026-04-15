@@ -1,11 +1,17 @@
-
-
 <p align="center">
   <img src="./Hand_Wave.gif" alt="hand wave" width="55" align="left"/>
   <h2 align="left">Hi, I'm Mario Tavarez | Senior Full Stack Engineer</h2>
 </p>
 
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=React+%2F+Angular+%2F+Next.js+Expert;Node.js+%2B+NestJS+Backend+Architect;Cloud+%7C+Docker+%7C+Kubernetes+%7C+AWS;Mentor+%26+Technical+Leader" alt="Typing SVG"/>
+  </a>
+</p>
+
 ### 8+ Years Building Enterprise Solutions
+
+![Profile Views](https://komarev.com/ghpvc/?username=mariotavarez&color=6366f1&style=flat-square&label=Profile+Views)
 
 <p align="center">
   <img src="./Subject.png" alt="Senior Full Stack" width="200"/>
@@ -24,7 +30,7 @@ I thrive in collaborative environments where innovation is valued, and I'm passi
   <br>
   🌱 Continuously expanding my expertise in cloud architecture and performance optimization
   <br>
-  🚀 Proven track record of reducing development time by 30% through efficient workflows
+  🚀 Proven track record of reducing development time by 30% and CI/CD pipelines by 40% through efficient workflows
   <br>
   🤝 Seeking opportunities to lead impactful projects in innovative companies
   <br>
@@ -45,8 +51,15 @@ I thrive in collaborative environments where innovation is valued, and I'm passi
 
 <p align="center">
   <a href="https://github.com/mariotavarez/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariotavarez&show_icons=true&title_color=DCF2F1&bg_color=10,232526,414345&border_radius=10&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/mariotavarez/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotavarez&title_color=DCF2F1&bg_color=10,232526,414345&border_radius=10&show_icons=true&layout=compact&text_color=ffffff" alt="Top Langs"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mariotavarez&theme=dark&hide_border=true&background=232526" alt="GitHub Streak"/>
 </p>
 
 <br>
@@ -77,6 +90,7 @@ I thrive in collaborative environments where innovation is valued, and I'm passi
 ### Backend & Database Engineering
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -86,6 +100,8 @@ I thrive in collaborative environments where innovation is valued, and I'm passi
 
 ### Quality Assurance & Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -117,13 +133,16 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
   <h3 align="left">Let's Connect</h3>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariotavarez/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtavarez/)
 [![Website](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge)](https://macoder.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariojosueitq@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariotavarez)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mariotavarez)
 
 ### Recent Projects
-- 🏆 **Enterprise E-commerce Platform** - Led development of a scalable solution processing 10K+ daily transactions
-- 🚀 **Healthcare Management System** - Architected HIPAA-compliant application serving 50+ medical facilities
-- 💼 **Financial Analytics Dashboard** - Developed real-time data visualization platform for investment decisions
+
+| | Project | Description | Impact |
+|---|---|---|---|
+| 🏆 | **Enterprise E-commerce Platform** | Led development of a scalable solution with microservices and Redis caching | 10K+ daily transactions |
+| 🚀 | **Healthcare Management System** | Architected HIPAA-compliant application with role-based access and audit trails | 50+ medical facilities |
+| 💼 | **Financial Analytics Dashboard** | Developed real-time data visualization platform with WebSocket feeds | Used by investment teams |
