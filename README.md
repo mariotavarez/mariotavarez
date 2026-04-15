@@ -320,14 +320,73 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
     </td>
     <td align="center" width="50%">
-      <br/><br/><br/><br/>
-      <b>More coming soon...</b>
-      <br/><br/>
-      <sub>Follow to stay updated on new open source tools and templates.</sub>
-      <br/><br/>
-      <a href="https://github.com/mariotavarez?tab=repositories">
-        <img src="https://img.shields.io/badge/View_all_repos-→-6366f1?style=for-the-badge"/>
+      <a href="https://github.com/mariotavarez/url-shortener">
+        <img src="https://raw.githubusercontent.com/mariotavarez/url-shortener/main/.github/demo.svg" width="100%" alt="url-shortener"/>
       </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/url-shortener"><b>url-shortener</b></a>
+      <br/>
+      <sub>Self-hosted URL shortener with click analytics. Next.js 15 + SQLite + Server Actions. Zero config, deploy anywhere.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-embedded-003b57?logo=sqlite&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/json-visualizer">
+        <img src="https://raw.githubusercontent.com/mariotavarez/json-visualizer/main/.github/demo.svg" width="100%" alt="JSONLens"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/json-visualizer"><b>JSONLens — JSON Visualizer</b></a>
+      <br/>
+      <sub>Interactive JSON tree with collapsible nodes, color-coded values, path copying, and live search.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/markdown-editor">
+        <img src="https://raw.githubusercontent.com/mariotavarez/markdown-editor/main/.github/demo.svg" width="100%" alt="MarkFlow"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/markdown-editor"><b>MarkFlow — Markdown Editor</b></a>
+      <br/>
+      <sub>Distraction-free Markdown editor with live split-pane preview, formatting toolbar, and HTML/MD export.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/port-killer">
+        <img src="https://raw.githubusercontent.com/mariotavarez/port-killer/main/.github/demo.svg" width="100%" alt="port-killer"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/port-killer"><b>port-killer</b></a>
+      <br/>
+      <sub>Your port is busy. Not anymore. Find and kill any process blocking a dev port in one command.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-port--killer-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/cross--platform-✓-3fb950?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/http-mock">
+        <img src="https://raw.githubusercontent.com/mariotavarez/http-mock/main/.github/demo.svg" width="100%" alt="http-mock"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/http-mock"><b>http-mock</b></a>
+      <br/>
+      <sub>Spin up a mock REST API from a JSON config in seconds. Hot-reload, wildcard params, per-route delays.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-http--mock-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
     </td>
   </tr>
 </table>
