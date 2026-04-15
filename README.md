@@ -62,6 +62,10 @@ I thrive in collaborative environments where innovation is valued, and I'm passi
   <img src="https://streak-stats.demolab.com?user=mariotavarez&theme=dark&hide_border=true&background=232526" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mariotavarez&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
 <br>
 <br>
 
@@ -127,6 +131,50 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
 
 <br>
 <br>
+
+---
+
+### 🚀 Open Source Projects
+
+<p align="center">
+  <a href="https://github.com/mariotavarez/react-ai-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-ai-dashboard&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/mariotavarez/react-crypto-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-crypto-tracker&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mariotavarez/react-taskflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-taskflow&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/mariotavarez/react-node-editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=react-node-editor&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mariotavarez/ai-review-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=ai-review-cli&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/mariotavarez/claude-usage-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=claude-usage-cli&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mariotavarez/git-standup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=git-standup&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/mariotavarez/devpulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariotavarez&repo=devpulse&bg_color=10,232526,414345&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+<br>
+
+---
 
 <p align="center">
   <img src="./Subject_10.png" alt="Find me at" width="40" align="left"/>
