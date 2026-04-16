@@ -601,6 +601,62 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/zero_backend-✓-3fb950?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/git-storyboard">
+        <img src="https://raw.githubusercontent.com/mariotavarez/git-storyboard/main/.github/demo.svg" width="100%" alt="git-storyboard"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/git-storyboard"><b>git-storyboard</b></a>
+      <br/>
+      <sub>Generate a visual diagram of your Git history — branches, merges, and commits as interactive HTML or Mermaid. Zero deps.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-git--storyboard-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/HTML%2FMermaid%2FJSON-output-58a6ff?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/component-graph">
+        <img src="https://raw.githubusercontent.com/mariotavarez/component-graph/main/.github/demo.svg" width="100%" alt="component-graph"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/component-graph"><b>component-graph</b></a>
+      <br/>
+      <sub>Visual dependency graph for React projects — find orphaned components, circular deps, and hub components. Interactive HTML output.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-component--graph-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/React%2FTypeScript-analysis-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/ci-cost">
+        <img src="https://raw.githubusercontent.com/mariotavarez/ci-cost/main/.github/demo.svg" width="100%" alt="ci-cost"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/ci-cost"><b>ci-cost</b></a>
+      <br/>
+      <sub>Analyze GitHub Actions workflows and get specific recommendations to cut CI time and cost. Generates optimized workflow files.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-ci--cost-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-optimizer-2088FF?logo=github-actions&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/pkg-health">
+        <img src="https://raw.githubusercontent.com/mariotavarez/pkg-health/main/.github/demo.svg" width="100%" alt="pkg-health"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/pkg-health"><b>pkg-health</b></a>
+      <br/>
+      <sub>npm package health analyzer — find abandoned, single-maintainer, and supply-chain-risky dependencies. Beyond npm audit.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-pkg--health-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/supply_chain-aware-f85149?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 <br>
