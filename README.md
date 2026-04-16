@@ -392,7 +392,7 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mariotavarez/invoice-gen">
-        <img src="https://raw.githubusercontent.com/mariotavarez/invoice-gen/main/.github/demo.svg" width="100%" alt="InvoiceGen"/>
+        <img src="https://raw.githubusercontent.com/mariotavarez/invoice-gen/main/.github/demo2.svg" width="100%" alt="InvoiceGen"/>
       </a>
       <br/><br/>
       <a href="https://github.com/mariotavarez/invoice-gen"><b>InvoiceGen</b></a>
