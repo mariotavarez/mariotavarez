@@ -389,6 +389,51 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/invoice-gen">
+        <img src="https://raw.githubusercontent.com/mariotavarez/invoice-gen/main/.github/demo.svg" width="100%" alt="InvoiceGen"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/invoice-gen"><b>InvoiceGen</b></a>
+      <br/>
+      <sub>Self-hosted invoice generator. Create, send, and track invoices with PDF export. Next.js 15 + SQLite — no SaaS fees.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-embedded-003b57?logo=sqlite&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/focus-timer">
+        <img src="https://raw.githubusercontent.com/mariotavarez/focus-timer/main/.github/demo.svg" width="100%" alt="FocusFlow"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/focus-timer"><b>FocusFlow — Pomodoro Timer</b></a>
+      <br/>
+      <sub>Deep work. Zero distractions. Pomodoro timer with SVG progress ring, task list, session log, and browser notifications.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/expense-tracker">
+        <img src="https://raw.githubusercontent.com/mariotavarez/expense-tracker/main/.github/demo.svg" width="100%" alt="Spendr"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/expense-tracker"><b>Spendr — Expense Tracker</b></a>
+      <br/>
+      <sub>Personal finance dashboard. Track spending, set budgets, visualize categories. Donut + bar charts via Recharts.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Recharts-2.10-22b5bf?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
 </table>
 
 <br>
