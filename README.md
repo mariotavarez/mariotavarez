@@ -431,7 +431,62 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/Recharts-2.10-22b5bf?style=flat-square"/>
       <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square"/>
     </td>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/bundle-guard">
+        <img src="https://raw.githubusercontent.com/mariotavarez/bundle-guard/main/.github/demo.svg" width="100%" alt="bundle-guard"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/bundle-guard"><b>bundle-guard</b></a>
+      <br/>
+      <sub>Fail CI when JS bundles grow too large. Tracks gzip sizes across commits, compares against a baseline, blocks the build.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-bundle--guard-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-ready-3fb950?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/pr-lint">
+        <img src="https://raw.githubusercontent.com/mariotavarez/pr-lint/main/.github/demo.svg" width="100%" alt="pr-lint"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/pr-lint"><b>pr-lint</b></a>
+      <br/>
+      <sub>Validate PRs in CI — conventional commit title, description length, branch naming, and size limits. GitHub Actions native.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-pr--lint-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-✓-2088FF?logo=github-actions&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/coverage-gate">
+        <img src="https://raw.githubusercontent.com/mariotavarez/coverage-gate/main/.github/demo.svg" width="100%" alt="coverage-gate"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/coverage-gate"><b>coverage-gate</b></a>
+      <br/>
+      <sub>Enforce test coverage thresholds in CI. Reads Jest/Vitest/c8 reports, fails builds when lines, branches, or functions drop.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-coverage--gate-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Jest%2FVitest-compatible-C21325?logo=jest&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/dep-diff">
+        <img src="https://raw.githubusercontent.com/mariotavarez/dep-diff/main/.github/demo.svg" width="100%" alt="dep-diff"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/dep-diff"><b>dep-diff</b></a>
+      <br/>
+      <sub>Show exactly what npm packages changed in a PR — added, removed, upgraded, downgraded. Flags major version bumps.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-dep--diff-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
     </td>
   </tr>
 </table>
