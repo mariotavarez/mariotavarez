@@ -545,6 +545,62 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/commit-ai">
+        <img src="https://raw.githubusercontent.com/mariotavarez/commit-ai/main/.github/demo.svg" width="100%" alt="commit-ai"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/commit-ai"><b>commit-ai</b></a>
+      <br/>
+      <sub>AI-generated commit messages from git diff. Conventional commits in one command. Supports OpenAI, Anthropic, and Ollama.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-commit--ai-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/OpenAI%2FAnthropic%2FOllama-compatible-412991?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/regex-vis">
+        <img src="https://raw.githubusercontent.com/mariotavarez/regex-vis/main/.github/demo.svg" width="100%" alt="regex-vis"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/regex-vis"><b>regex-vis</b></a>
+      <br/>
+      <sub>Interactive regex visualizer — see exactly what each part of your pattern does, with color-coded tokens and live match highlighting.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/zero_backend-✓-3fb950?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/devlinks">
+        <img src="https://raw.githubusercontent.com/mariotavarez/devlinks/main/.github/demo.svg" width="100%" alt="devlinks"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/devlinks"><b>devlinks</b></a>
+      <br/>
+      <sub>Beautiful link-in-bio for developers. GitHub stats, repo showcase, tech stack. Fork, edit one file, deploy to Vercel in 30 seconds.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Static_Export-✓-3fb950?logo=vercel&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/GitHub_API-live_stats-181717?logo=github&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/sql-playground">
+        <img src="https://raw.githubusercontent.com/mariotavarez/sql-playground/main/.github/demo.svg" width="100%" alt="sql-playground"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/sql-playground"><b>sql-playground</b></a>
+      <br/>
+      <sub>Run SQL in your browser. SQLite via WebAssembly — no server, no setup. Sample datasets, shareable links, CSV export.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-WASM-003b57?logo=sqlite&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/zero_backend-✓-3fb950?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 <br>
