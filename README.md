@@ -489,6 +489,62 @@ And expertise in CI/CD, microservices architecture, performance optimization, an
       <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/secret-scan">
+        <img src="https://raw.githubusercontent.com/mariotavarez/secret-scan/main/.github/demo.svg" width="100%" alt="secret-scan"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/secret-scan"><b>secret-scan</b></a>
+      <br/>
+      <sub>Catch leaked API keys, tokens, and credentials before they reach your repo. Pre-commit hook or CI step. 45+ patterns.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-secret--scan-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/pre--commit-hook-f85149?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/deadcode">
+        <img src="https://raw.githubusercontent.com/mariotavarez/deadcode/main/.github/demo.svg" width="100%" alt="deadcode"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/deadcode"><b>deadcode</b></a>
+      <br/>
+      <sub>Find exported functions, types, and constants that are never imported anywhere. Static analysis for TypeScript projects.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-deadcode-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/TypeScript-static_analysis-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/status-page">
+        <img src="https://raw.githubusercontent.com/mariotavarez/status-page/main/.github/demo.svg" width="100%" alt="status-page"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/status-page"><b>status-page</b></a>
+      <br/>
+      <sub>Self-hosted uptime monitor. Ping your services, track 90-day history, show incidents. Next.js 15 + SQLite. No subscriptions.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQLite-embedded-003b57?logo=sqlite&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vercel_Cron-ready-000000?logo=vercel&logoColor=white&style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mariotavarez/git-standup">
+        <img src="https://raw.githubusercontent.com/mariotavarez/git-standup/main/.github/demo.svg" width="100%" alt="git-standup"/>
+      </a>
+      <br/><br/>
+      <a href="https://github.com/mariotavarez/git-standup"><b>git-standup</b></a>
+      <br/>
+      <sub>See all your commits from yesterday across every local repo. Perfect for daily standups. One command, zero config.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/npx-git--standup-CB3837?logo=npm&logoColor=white&style=flat-square"/>
+      <img src="https://img.shields.io/badge/zero_deps-✓-3fb950?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 <br>
